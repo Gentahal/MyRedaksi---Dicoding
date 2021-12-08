@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RedaksiApp</string>
+
+    <string name="judul_berita">Judul Berita</string>
+    <string name="nama_berita">Nama Berita</string>
+    <string name="list_detail">List Detail Berita</string>
+    <string name="isi_berita">Isi Berita</string>
+    <string name="sumber_berita">Sumber Berita</string>
+    <string name="nama_saya">Genta Halilintar</string>
+    <string name="email_saya">gentahalilintar36@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
